@@ -43,6 +43,13 @@
       - `A fist of dollars` has been identified as an unofficial remake of the Akira Kurosawa film, `Yojimbo` (1961), which resulted in a successful lawsuit by Toho, Yojimbo's production company 
    - **Communal**: Leone's narratives often revolve around the deliverance or transformation of a community, as seen through the lens of individuals challenging oppressive forces.
    - **Transcendental**: Beyond the immediate, Leone's films engage with themes of destiny, morality, and the human condition, inviting audiences to reflect on deeper questions of justice, revenge, and redemption.
+      - Bill Withers is a curiosity
+      - Certainly in the pantheon of greats
+      - God of the pentatonic melody
+      - But no superstar
+      - As he confeses in "Still Bill", he just didn't have the skill to navigate the industry
+      - You have these "blackspats" telling him to do reharms of Elvis' "In the Ghetto"
+      - Seriously?? 
 
 # Chromatic
 

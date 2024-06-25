@@ -24,6 +24,6 @@
    - Start to use powerful simulations with limitless variables as didactic
    - Bayesian *`a priori`* may now be expressed by anyone casually via webApp
 
-#
+
 
 ![](shruti.png)
